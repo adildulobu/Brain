@@ -5,7 +5,7 @@ class Matematica{
 
         //println("f(x)= $eqc=0")
 
-        val numero:List<String> = eqc.split("x+")
+        val numero:List<String> = eqc.split("x")
         // val numero1:List<String> =eqc.split("")
 
 
