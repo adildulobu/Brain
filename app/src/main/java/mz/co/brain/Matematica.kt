@@ -70,6 +70,12 @@ class Matematica{
         }
         println()
     }
+    fun forca(m:Double, a:Double): Double {
+
+        val f = m*a
+        return f
+
+    }
 }
 
 fun main(args: Array<String>){
